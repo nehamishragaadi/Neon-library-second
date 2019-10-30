@@ -1,0 +1,29 @@
+{
+  "name": "react-native-neon-library-second",
+  "title": "React Native Neon Library Second",
+  "version": "1.0.1",
+  "description": "TODO",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nehamishragaadi/Neon-library-second.git"
+    
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Neha mishra"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.59.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.8.3",
+    "react-native": "^0.59.10"
+  }
+}
